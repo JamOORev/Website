@@ -16,9 +16,9 @@ else
 fi
 }
 
-if ["${TRAVIS_REPO_SLUG}" != "JamOORev" ]; then
+if [ "${TRAVIS_REPO_SLUG}" != "JamOORev/Website" ]; then
 	echo "Not uploading fork of website."
 	exit 0
 fi
 
-curl --ftp-create-dirs -T _site/* -u $FTP_USER:$FTP_PASSWORD ftp://jamoorav.com/`getFolder`
+curl --ftp-create-dirs -T _site/* -u $FTP_USER:$FTP_PASSWORD ftp://jamoorev.com/`getFolder`
