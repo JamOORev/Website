@@ -21,4 +21,4 @@ if [ "${TRAVIS_REPO_SLUG}" != "JamOORev/Website" ]; then
 	exit 0
 fi
 
-curl --ftp-create-dirs -T _site/* -u $FTP_USER:$FTP_PASSWORD ftp://jamoorev.com/`getFolder`
+curl --ftp-create-dirs -T _site/ -u $FTP_USER:$FTP_PASSWORD ftp://jamoorev.com/`getFolder`
