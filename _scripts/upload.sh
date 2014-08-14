@@ -22,6 +22,6 @@ if [ "${TRAVIS_REPO_SLUG}" != "JamOORev/Website" ]; then
 fi
 
 sudo apt-get install ncftp --yes
-ncftpput -R -v -u $FTP_USER -p $FTP_PASSWORD jamoorev.com "`getFolder`/" _site/
+cd _site/ && ncftpput -R -DD -v -u $FTP_USER -p $FTP_PASSWORD jamoorev.com "`getFolder`/" ./*
 
 #curl --ftp-create-dirs -T _site/ -u $FTP_USER:$FTP_PASSWORD ftp://jamoorev.com/`getFolder`
