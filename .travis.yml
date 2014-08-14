@@ -7,4 +7,4 @@ env:
 script: "bundle exec jekyll build -t"
 install: bundle install
 after_success:
-    "chmod u+x ./scripts/upload.sh && ./_scripts/upload.sh"
+    "chmod u+x ./_scripts/upload.sh && ./_scripts/upload.sh"
