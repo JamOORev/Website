@@ -1,7 +1,7 @@
 #! /bin/bash
 
 function getBranch() {
-	echo ${TRAVIS_BRANCH//[/]/-}
+	echo `echo ${TRAVIS_BRANCH} | sed s/[\/]/-/ `
 }
 
 function getFolder() {
