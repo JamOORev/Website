@@ -12,7 +12,7 @@ if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
 		echo "dev_html/main_site/`getBranch`"
 	fi
 else
-	echo "PR-${TRAVIS_PULL_REQUEST}-`getBranch`"
+	exit 0
 fi
 }
 
