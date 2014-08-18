@@ -5,9 +5,26 @@ div#header.panel {
 	border-left: none !IMPORTANT;
 	border-right: none !IMPORTANT;
 	padding: 25px 0px;
-	margin-top: -5px !IMPORTANT;
+	margin-top: -1px !IMPORTANT;
 }
 
 div#header.panel  h1, div#header.panel  h4 {
 	color: white !IMPORTANT;
+}
+
+h1.hr,h2.hr,h3.hr,h4.hr,h5.hr,h6.hr {
+	border-bottom: 1px solid;
+}
+
+div.member-head {
+	width: 150px;
+	height: 150px;
+    margin: 0 auto;
+	background-size:cover;
+	display: block;
+}
+
+div.member-info {
+	width: 100%;
+	text-align: center;
 }

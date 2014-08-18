@@ -1,6 +1,15 @@
-- name: theminecoder
-  role: Admin
+# Admins
+- name: hawks008
+  ign: theminecoder
+  role: admin
   job: Website Developer
+- name: Kris
+  ign: Kris1432
+  role: admin
+  job: Owner
+  
+# Randoms
 - name: poppypoppop
-  role: Slave
-  job: Member
+  ign: poppypoppop
+  role: member
+  job: Slave
