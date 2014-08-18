@@ -1,0 +1,10 @@
+---
+layout: base
+---
+<div id="header" class="panel" style="background-image: url('img/{{ page.header-image }}');">
+	<div class="row">
+		<h1>{{ page.title }}</h1>
+		<h4>{% if page.subtitle %}{{ page.subtitle }}{% else %}&nbsp;{% endif %}</h4>
+	</div>
+</div>
+{{ content }}

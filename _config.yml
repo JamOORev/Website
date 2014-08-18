@@ -1,4 +1,12 @@
 title: 'JamOORev'
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'page'
+    values:
+      header-image: 'header-default.png'
     
 # Utility :3
 markdown: 'kramdown'

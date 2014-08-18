@@ -1,9 +1,9 @@
 ---
-title: About
+title: About OOClan
+subtitle: A short history.
+header-image: index_back.png
 layout: single
 ---
-
-# About OOClan
 
 The OOClan was created in 2011, as a community of 7 members who were all friends at the same college in Yorkshire, England:
 

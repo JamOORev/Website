@@ -1,0 +1,13 @@
+div#header.panel {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-left: none !IMPORTANT;
+	border-right: none !IMPORTANT;
+	padding: 25px 0px;
+	margin-top: -5px !IMPORTANT;
+}
+
+div#header.panel  h1, div#header.panel  h4 {
+	color: white !IMPORTANT;
+}
