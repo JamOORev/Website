@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	background-image: url('../img/index_back.png');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+nav {
+	z-index: 20 !IMPORTANT;
+}
+
+#center {
+	display: table;
+	margin: auto;
+	position: absolute;
+	width: 60%;
+	height: 40%;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	text-align: center;
+}
+
+#center>* {
+	color: white !IMPORTANT;
+	font-family: 'Open Sans', 'sans-serif';
+}
+
+#logo {
+	width: 200px;
+	height: 200px; /* Still need a logo, kk :P */
+	display: inline-block;
+	text-align: center;
+	background-image: url('../img/logo.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+

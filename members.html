@@ -1,0 +1,17 @@
+---
+layout: single
+---
+
+{{ site.data.members | size }} member{% if site.data.members.size != 1 %}s{% endif %}.
+{% assign role_groups = site.data.members | group_by:"role" %}
+{% for role_group in role_groups %}
+{{ role_group }}
+<h1>{{ role_group.name | capitalize }}</h1>
+<ul>
+{% for member in role_group.items %}
+  <li>
+    {{ member.name }} - {{ member.role }}<br>{{ member.job }}<br>{{ member }}
+  </li>
+{% endfor %}
+</ul>
+{% endfor %}
