@@ -1,15 +1,16 @@
+# PLEASE KEEP ALL ROLES LOWERCASE. I havent worked out how to get jekyll grouping while ignoring values.
+
 # Admins
 - name: hawks008
   ign: theminecoder
   role: admin
-  job: Website Developer
-- name: Kris
+  job: website developer
+- name: Kroos
   ign: Kris1432
   role: admin
-  job: Owner
+  job: owner
   
 # Randoms
 - name: poppypoppop
   ign: poppypoppop
-  role: member
-  job: Slave
+  role: moderator

@@ -14,9 +14,10 @@ div#header.panel  h1, div#header.panel  h4 {
 
 h1.hr,h2.hr,h3.hr,h4.hr,h5.hr,h6.hr {
 	border-bottom: 1px solid;
+	display: table;
 }
 
-div.member-head {
+div.member-info-head {
 	width: 150px;
 	height: 150px;
     margin: 0 auto;
@@ -24,7 +25,7 @@ div.member-head {
 	display: block;
 }
 
-div.member-info {
+div.member-info-name, div.member-info-job {
 	width: 100%;
 	text-align: center;
 }
