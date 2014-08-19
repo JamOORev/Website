@@ -1,18 +1,18 @@
 ---
 title: Members
 layout: fancy-header
+header-image: header-members.png
 ---
 
-<div class="row"><div class="columns">{{ site.data.members | size }} member{% if site.data.members.size != 1 %}s{% endif %}.</div></div>
 {% assign role_groups = site.data.members | group_by:"role" %}
 {% for role_group in role_groups %}
 <div class="row" data-equalizer>
 <h2 class="hr small-12 columns">{{ role_group.name | capitalize }}</h2>
 {% assign members = role_group.items | sort: "name" %}
 {% for member in members %}
-  <div class="medium-4 large-3 columns end member-info" data-equalizer-watch>
-	<div class="member-info-head" style="background-image: url('http://cravatar.eu/helmhead/{{ member.ign }}/300.png');"></div>
-    <div class="member-info-name">{{ member.name }}</div>
+  <div class="medium-4 large-3 columns end item-info" data-equalizer-watch>
+	<div class="item-info-icon" style="background-image: url('http://cravatar.eu/helmhead/{{ member.ign }}/300.png');"></div>
+    <div class="item-info-name">{{ member.name }}</div>
 	{% if member.job %}<div class="member-info-job">{{ member.job | capitalize }}</div>{% endif %}
   </div>
 {% endfor %}

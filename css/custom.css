@@ -10,14 +10,16 @@ div#header.panel {
 
 div#header.panel  h1, div#header.panel  h4 {
 	color: white !IMPORTANT;
+	text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
 }
 
-h1.hr,h2.hr,h3.hr,h4.hr,h5.hr,h6.hr {
-	border-bottom: 1px solid;
-	display: table;
+div#footer-text  {
+	margin-top: -12px;
+	margin-bottom: 8px;
 }
 
-div.member-info-head {
+
+div.item-info-icon {
 	width: 150px;
 	height: 150px;
     margin: 0 auto;
@@ -25,7 +27,7 @@ div.member-info-head {
 	display: block;
 }
 
-div.member-info-name, div.member-info-job {
+div.item-info-name, div.member-info-job, div.mod-info-author {
 	width: 100%;
 	text-align: center;
 }
