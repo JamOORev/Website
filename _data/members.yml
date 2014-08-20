@@ -14,15 +14,23 @@
 - name: DrunkMafia
   ign: TheDrunkMafia
   role: moderator
+  job: Author Of Thaumic Infusion
 - name: TheOrangeGenius
   ign: TheOrangeGenius
   role: moderator
+  job: Being Orange
+- name: Tombenpotter
+  ign: Tombenpotter
+  role: moderator
+  job: Author of Electro-Magic Tools
 - name: Othlon
   ign: Othlon
   role: member
 - name: Mortvana
   ign: LordMortvana
   role: member
+  job: Author of Thermal Tinkerer
 - name: poppypoppop
   ign: poppypoppop
   role: member
+  job: newb
