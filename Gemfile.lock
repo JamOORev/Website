@@ -11,8 +11,10 @@ GEM
       execjs
     coffee-script-source (1.7.1)
     colorator (0.1)
+    emoji_for_jekyll (0.1.0)
     execjs (2.2.1)
     fast-stemmer (1.0.2)
+    ffi (1.9.3)
     ffi (1.9.3-x86-mingw32)
     jekyll (2.3.0)
       classifier-reborn (~> 2.0)
@@ -59,10 +61,12 @@ GEM
     timers (1.1.0)
     toml (0.1.1)
       parslet (~> 1.5.0)
+    yajl-ruby (1.1.0)
     yajl-ruby (1.1.0-x86-mingw32)
 
 PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  emoji_for_jekyll
   jekyll

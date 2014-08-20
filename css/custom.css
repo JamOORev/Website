@@ -18,6 +18,11 @@ div#footer-text  {
 	margin-bottom: 8px;
 }
 
+label.required:after{
+	content: '*';
+	color: red ;
+}
+
 
 div.item-info-icon {
 	width: 150px;

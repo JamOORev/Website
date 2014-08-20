@@ -9,6 +9,8 @@ defaults:
       header-image: 'header-default.png'
     
 # Utility :3
+gems:
+- 'emoji_for_jekyll'
 markdown: 'kramdown'
 exclude:
 - '/.*'
