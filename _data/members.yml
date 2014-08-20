@@ -11,9 +11,6 @@
   job: owner
   
 # Randoms
-- name: poppypoppop
-  ign: poppypoppop
-  role: member
 - name: DrunkMafia
   ign: TheDrunkMafia
   role: moderator
@@ -25,4 +22,7 @@
   role: member
 - name: Mortvana
   ign: LordMortvana
+  role: member
+- name: poppypoppop
+  ign: poppypoppop
   role: member
