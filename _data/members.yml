@@ -8,7 +8,7 @@
 - name: Kroos
   ign: Kris1432
   role: admin
-  job: owner
+  job: Owner and Founder Of The OOClan
   
 # Randoms
 - name: DrunkMafia
@@ -22,15 +22,67 @@
 - name: Tombenpotter
   ign: Tombenpotter
   role: moderator
-  job: Author of Electro-Magic Tools
+  job: Author Of Electro-Magic Tools
 - name: Othlon
   ign: Othlon
   role: member
 - name: Mortvana
   ign: LordMortvana
   role: member
-  job: Author of Thermal Tinkerer
+  job: Author Of Thermal Tinkerer
 - name: poppypoppop
   ign: poppypoppop
   role: member
-  job: newb
+  job: Newb
+- name: Fridgeboy
+  ign: lacsap32
+  role: member
+  job: 
+- name: Domi
+  ign: domi1819
+  role: member
+  job: Author Of Growable Resources
+- name: imdutch21
+  ign: superbartje12
+  role: member
+  job: Author Of Oilcraft
+- name: BradXD1995
+  ign: BradXD1995
+  role: member
+  job: Founder of OOClan
+- name: Birrellmeister
+  ign: Birrellmeister
+  role: member
+  job: Founder of OOClan
+- name: OObiHaxorz
+  ign: OObiHazorz
+  role: member
+  job: Founder of OOClan
+- name: Wasliebob
+  ign: wasliebob
+  role: member
+  job: Author Of Thaumcraft Extras
+- name: MisterXerox
+  ign: MisterXerox
+  role: member
+  job: 
+- name: iconmaster
+  ign: iconmaster
+  role: member
+  job: Author Of Aethercraft
+- name: theZorro266
+  ign: theZorro266
+  role: member
+  job: Author Of LogisticPipes
+- name: WerWolv
+  ign: wer_wolv
+  role: member
+  job: Author Of Eldritch Memorize
+- name: MasterAbdoTGM50
+  ign: MasterAbdoTGM50
+  role: member
+  job: Author Of Thaumic Warden
+- name: MrComputerGhost
+  ign: MrComputerGhost
+  role: member
+  job: Author Of Flowstone
