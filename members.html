@@ -7,13 +7,13 @@ header-image: header-members.png
 {% assign role_groups = site.data.members | group_by:"role" %}
 {% for role_group in role_groups %}
 <div class="row" data-equalizer>
-<h2 class="hr small-12 columns">{{ role_group.name | capitalize }}</h2>
+<h2 class="hr small-12 columns">{{ role_group.name }}</h2>
 {% assign members = role_group.items | sort: "name" %}
 {% for member in members %}
   <div class="medium-4 large-3 columns end item-info" data-equalizer-watch>
 	<div class="item-info-icon" style="background-image: url('http://cravatar.eu/helmhead/{{ member.ign }}/300.png');"></div>
     <div class="item-info-name">{{ member.name }}</div>
-	<div class="member-info-job">{% if member.job %}{{ member.job | capitalize }}{% else %}&nbsp;{% endif %}</div>
+	<div class="member-info-job">{% if member.job %}{{ member.job }}{% else %}&nbsp;{% endif %}</div>
   </div>
 {% endfor %}
 </div>
