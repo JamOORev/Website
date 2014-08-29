@@ -11,10 +11,6 @@
   job: Owner and Founder Of The OOClan
   
 # Randoms
-- name: DrunkMafia
-  ign: TheDrunkMafia
-  role: moderator
-  job: Author Of Thaumic Infusion
 - name: eddie900
   ign: eddie900
   role: moderator
@@ -27,10 +23,6 @@
   ign: Tombenpotter
   role: moderator
   job: Author Of Electro-Magic Tools
-- name: Lordmau5
-  ign: Lordmau5
-  role: moderator
-  job: Streamer
 - name: allout
   ign: allout58
   role: moderator
@@ -182,3 +174,11 @@
   ign: Leonelf
   role: member
   job: Author Of ExtraCells
+- name: DrunkMafia
+  ign: TheDrunkMafia
+  role: moderator
+  job: Author Of Thaumic Infusion
+- name: Lordmau5
+  ign: Lordmau5
+  role: moderator
+  job: Streamer
