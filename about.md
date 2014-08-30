@@ -5,6 +5,10 @@ header-image: index_back.png
 layout: single
 ---
 
+### JamOORev
+
+### OOClan
+
 The OOClan was created in 2011, as a community of 7 members who were all friends at the same college in Yorkshire, England:
 
 - Kris1432
@@ -36,3 +40,5 @@ In July 14, TheOrangeGenius was assigned Moderator, due to his dedication toward
 ### Why the name OOClan?
 
 The most asked question I get… The Clan bit is simple, but where is this OO thing from. Basically, the word “stoof” was used throughout the internet (mainly Runescape), which meant “stuff”. Eddie decided to use that OO in stoof and use it on his fellow members usernames. So Kris would be Kroos, the OO would go where it would make sense upon being spoken. Try it on your own username. When tom asked what I wanted the IRC channel name to be, I had to think of something, and this was the best thing I could come up with at the time. So there you have it, OOClan explained.
+
+### JamCraft
