@@ -1,0 +1,10 @@
+# Template
+#- name: Mod *REQUIRED*
+#  author: hawks008 *REQUIRED*
+#  logo: mod_logo.png OR http://site.com/mod_logo.png
+#  website: http://jamoorev.com/
+
+- name: Ood's Mod
+  author: eddie900
+  logo: http://puu.sh/b1RKL/ad27f7aec0.png
+  website: http://dev.jamoorev.com/main_site/develop/about.html
