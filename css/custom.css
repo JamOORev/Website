@@ -33,6 +33,8 @@ div.item-info-icon {
     margin: 0 auto;
 	background-size:cover;
 	display: block;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 div.item-info-name, div.member-info-job, div.mod-info-author {

@@ -3,7 +3,7 @@ title: Mods
 layout: fancy-header
 ---
 <div class="row" data-equalizer>
-<h2>Main Pack</h2>
+<h2 class="hr small-12 columns">Main Pack</h2>
 {% assign mods = site.data.mods.main | sort: 'name' %}
 {% for mod in mods %}
 	<div class="medium-4 large-3 columns end item-info" data-equalizer-watch>
@@ -16,7 +16,7 @@ layout: fancy-header
 {% endfor %}
 </div>
 <div class="row" data-equalizer>
-<h2>Lite Pack</h2>
+<h2 class="hr small-12 columns">Lite Pack</h2>
 {% assign mods = site.data.mods.lite | sort: 'name' %}
 {% for mod in mods %}
 	<div class="medium-4 large-3 columns end item-info" data-equalizer-watch>
