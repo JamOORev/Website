@@ -23,6 +23,9 @@ label.required:after{
 	color: red ;
 }
 
+div.item-info.highlighted {
+	background-color: #CEFFE6;
+}
 
 div.item-info-icon {
 	width: 150px;
