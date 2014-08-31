@@ -31,7 +31,7 @@ div.item-info-icon {
 	width: 150px;
 	height: 150px;
     margin: 0 auto;
-	background-size:cover;
+	background-size: contain;
 	display: block;
 	background-repeat: no-repeat;
 	background-position: center;
