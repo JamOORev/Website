@@ -3,11 +3,6 @@
 #  author: hawks008 *REQUIRED*
 #  logo: mod_logo.png OR http://site.com/mod_logo.png
 #  website: http://jamoorev.com/
-
-- name: Ood's Mod
-  author: eddie900
-  logo: http://puu.sh/b1RKL/ad27f7aec0.png
-  website: http://dev.jamoorev.com/main_site/develop/about.html
   
 #Automated Section
 - name: Another One Bites The Dust
@@ -39,10 +34,10 @@
   website: http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
 
 - name: Biomes O' Plenty
-  author: Adubbz, Amnet, Forstride, ted80
+  author: 'Adubbz, Amnet, Forstride, ted80'
   website: www.minecraftforum.net/topic/1495041-
 
-- name: Blood Magic: Alchemical Wizardry
+- name: 'Blood Magic: Alchemical Wizardry'
   author: WayofTime
   website: 
 
@@ -51,11 +46,11 @@
   website: http://www.vazkii.us
 
 - name: BuildCraft
-  author: SpaceToad, BuildCraft Team
+  author: 'SpaceToad, BuildCraft Team'
   website: http://www.mod-buildcraft.com/
 
 - name: Chisel
-  author: AUTOMATIC_MAIDEN, Pokefenn
+  author: 'AUTOMATIC_MAIDEN, Pokefenn'
   website: 
 
 - name: CoFH Core
@@ -99,7 +94,7 @@
   website: 
 
 - name: iChunUtil
-  author: iChun, Kihira
+  author: 'iChun, Kihira'
   website: http://www.ichun.us/
 
 - name: I'm Looking At Blood
@@ -111,15 +106,15 @@
   website: http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/
 
 - name: IndustrialCraft 2
-  author: Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44
+  author: 'Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44'
   website: http://www.industrial-craft.net
 
 - name: Inventory Tweaks
-  author: Jimeo Wan, Kobata
+  author: 'Jimeo Wan, Kobata'
   website: https://github.com/Kobata/inventory-tweaks
 
 - name: Jabba
-  author: ProfMobius, Taelnia
+  author: 'ProfMobius, Taelnia'
   website: 
 
 - name: Magic Bees
@@ -127,11 +122,11 @@
   website: http://bit.ly/XFDvLY
 
 - name: Mantle
-  author: mDiyo, Sunstrike, progWML6
+  author: 'mDiyo, Sunstrike, progWML6'
   website: https://github.com/SlimeKnights/Mantle
 
 - name: MineFactory Reloaded
-  author: PowerCrystals, TehKrush, AtomicStryker, Feanorith, skyboy026
+  author: 'PowerCrystals, TehKrush, AtomicStryker, Feanorith, skyboy026'
   website: http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
 
 - name: MineTweaker 3
@@ -147,7 +142,7 @@
   website: http://binarymage.com/forum/viewtopic.php?f=13&t=696
 
 - name: Natura
-  author: mDiyo, Slime Knights
+  author: 'mDiyo, Slime Knights'
   website: www.minecraftforum.net/topic/1753754-natura/
 
 - name: NEI Addons
@@ -167,11 +162,11 @@
   website: 
 
 - name: OpenBlocks
-  author: Mikee, NeverCast, boq, Lyqyd
+  author: 'Mikee, NeverCast, boq, Lyqyd'
   website: http://www.openperipheral.info
 
 - name: OpenMods
-  author: Mikee, NeverCast, boq, Lyqyd
+  author: 'Mikee, NeverCast, boq, Lyqyd'
   website: http://openmods.info/
 
 - name: Railcraft
@@ -187,7 +182,7 @@
   website: http://www.teamcofh.com
 
 - name: Reliquary
-  author: x3n0ph0b3, TheMike
+  author: 'x3n0ph0b3, TheMike'
   website: 
 
 - name: Simply Jetpacks
@@ -195,7 +190,7 @@
   website: 
 
 - name: SpACore
-  author: heldplayer, mbl111
+  author: 'heldplayer, mbl111'
   website: http://dsiwars.specialattack.net/forums/viewtopic.php?t=3
 
 - name: Tails
@@ -203,7 +198,7 @@
   website: https://github.com/kihira
 
 - name: Tinkers' Construct
-  author: mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox
+  author: 'mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox'
   website: http://www.minecraftforum.net/topic/1659892-tinkers-construct
 
 - name: Thaumcraft
@@ -215,7 +210,7 @@
   website: https://github.com/Flaxbeard/Thaumic_Exploration
 
 - name: Thaumic Tinkerer
-  author: pixlepix, nekosune
+  author: 'pixlepix, nekosune'
   website: minecraftforum.net/topic/1813058-
 
 - name: Thermal Expansion
