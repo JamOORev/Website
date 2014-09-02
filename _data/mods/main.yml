@@ -204,148 +204,258 @@
   logo: http://puu.sh/bfh3K/2d80cdb604.png
   website: http://minecraft.curseforge.com/mc-mods/223291-foxlib
   
-- name: 
-  author: 
-  logo: 
-  website: 
+  #BEGIN SCRIPT OUTPUT
   
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
-  website: 
-  
-- name: 
-  author: 
-  logo: 
+- name: GenDustry
+  author: 'bdew'
+  website: bdew.net/mods/
+
+- name: Graviation Suite
+  author: 'SeNtiMeL'
+  website: http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
+
+- name: Headcrumbs
+  author: 'ganymedes01'
   website: 
 
-- name: 
-  author: 
-  logo: 
+- name: I'm Looking At Blood
+  author: 'Pokefenn'
   website: 
-  
-- name: 
-  author: 
-  logo: 
+
+- name: Immibis Core
+  author: 'immibis'
+  website: http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/
+
+- name: IndustrialCraft 2
+  author: 'Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44'
+  website: http://www.industrial-craft.net
+
+- name: Inventory Tweaks
+  author: 'Jimeo Wan, Kobata'
+  website: https://github.com/Kobata/inventory-tweaks
+
+- name: Jabba
+  author: 'ProfMobius, Taelnia'
   website: 
-  
-- name: 
-  author: 
-  logo: 
+
+- name: Magical Crops
+  author: 'Mark719'
   website: 
-  
-- name: 
-  author: 
-  logo: 
+
+- name: Magic Bees
+  author: 'MysteriousAges'
+  website: http://bit.ly/XFDvLY
+
+- name: Magician's Artifice
+  author: 'poppypoppop, allout58, Mitchellbrine, kkaylium, MrComputerGhost'
   website: 
+
+- name: Mantle
+  author: 'mDiyo, Sunstrike, progWML6'
+  website: https://github.com/SlimeKnights/Mantle
+
+- name: Mekanism
+  author: 'aidancbrady'
   
-- name: 
-  author: 
-  logo: 
+- name: MekanismGenerators
+  author: 'aidancbrady'
+  
+- name: MekanismTools
+  author: 'aidancbrady'
+  
+- name: Metallurgy 4
+  author: 'Team Metallurgy'
   website: 
-  
-- name: 
-  author: 
-  logo: 
+
+- name: Metallurgy Core
+  author: 'Team Metallurgy'
   website: 
+
+- name: Modular Force Field System
+  author: 'Calclavia'
+  website: www.calclavia.com/mffs/
+
+- name: MineFactory Reloaded
+  author: 'PowerCrystals, TehKrush, AtomicStryker, Feanorith, skyboy026'
+  website: http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+
+- name: MineTweaker 3
+  author: 'Stan Hebben'
+  website: http://minetweaker3.powerofbytes.com
+
+- name: Mystcraft
+  author: 'XCompWiz'
+  website: http://binarymage.com
+
+- name: Natura
+  author: 'mDiyo, Slime Knights'
+  website: www.minecraftforum.net/topic/1753754-natura/
+
+- name: NEI Addons
+  author: 'bdew'
+  website: bdew.net/neiaddons
+
+- name: NEI Plugins Unofficial
+  author: 'mistaqur'
+  website: https://bitbucket.org/mistaqur/nei_plugins/wiki
+
+- name: ObsidiPlates
+  author: 'Myrathi'
+  website: http://smarturl.it/ObsidiPlates
+
+- name: Ood's Mod
+  author: 'Ood'
+  website: 
+
+- name: OpenBlocks
+  author: 'Mikee, NeverCast, boq, Lyqyd'
+  website: http://www.openperipheral.info
+
+- name: OpenMods
+  author: 'Mikee, NeverCast, boq, Lyqyd'
+  website: http://openmods.info/
+
+- name: Old Style Wands
+  author: 'Learwin'
+  website: 
+
+- name: PneumaticCraft
+  author: 'MineMaarten'
+  website: www.minemaarten.com
+
+- name: Power Converters
+  author: 'PowerCrystals, samrg472, portablejim'
+  website: http://www.minecraftforum.net/topic/1695968-
+
+- name: ProjectE
+  author: 'Moze_Intel'
+  website: 
+
+- name: ProjectRed
+  author: 'MrTJP, ChickenBones'
+  website: http://projectredwiki.com
+
+- name: ProjectRed-Exploration
+  author: 'MrTJP, ChickenBones'
+  website: http://projectredwiki.com
   
+- name: QuarryPlus
+  author: 'yogpstop'
+  website: https://github.com/yogpstop/QuarryPlus
+
+- name: Railcraft
+  author: 'CovertJaguar'
+  website: http://railcraft.info/
+
+- name: Recording Status Mod
+  author: 'fuj1n'
+  website: 
+
+- name: Redstone Arsenal
+  author: 'Team CoFH'
+  website: http://www.teamcofh.com
+
+- name: Refined Relocation
+  author: 'Dynious'
+  website: 
+
+- name: Reliquary
+  author: 'x3n0ph0b3, TheMike'
+  website: 
+
+- name: OOUtilities
+  author: 'Tombenpotter'
+  website: 
+
+- name: Simply Jetpacks
+  author: 'tonius11'
+  website: 
+
+- name: Slimevoid Library
+  author: 'Eurymachus'
+  website: https://github.com/SlimeVoid/SlimevoidLibrary
+
+- name: Soul Shards: Reborn
+  author: 'Moze_Intel'
+  website: http://www.minecraftforum.net/topic/2379399-forgeopen-sourcesoul-shards-reborn-original-soul-shards-remake-164-update-05e/
+
+- name: Steve's Carts 2
+  author: 'Vswe'
+  website: 
+
+- name: Steve's Factory Manager
+  author: 'Vswe'
+  website: 
+
+- name: Steve's Workshop
+  author: 'Vswe'
+  
+- name: Tails
+  author: 'Kihira'
+  website: https://github.com/kihira
+
+- name: Tinkers' Construct
+  author: 'mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox'
+  website: http://www.minecraftforum.net/topic/1659892-tinkers-construct
+
+- name: Thaumcraft
+  author: 'Azanor'
+  website: http://www.minecraftforum.net/topic/2011841-thaumcraft
+
+- name: Thaumcraft Extras 2
+  author: 'wasliebob'
+  website: 
+
+- name: Thaumic Exploration
+  author: 'Flaxbeard'
+  website: https://github.com/Flaxbeard/Thaumic_Exploration
+
+- name: Thaumic Tinkerer
+  author: 'pixlepix, nekosune'
+  website: minecraftforum.net/topic/1813058-
+
+- name: Thermal Tinkerer
+  author: 'Mortvana, Gyro, Drullkus, Tiktalik'
+  website: 
+
+- name: Thermal Expansion
+  author: 'Team CoFH'
+  website: http://www.teamcofh.com
+
+- name: Thermal Foundation
+  author: 'Team CoFH'
+  website: http://www.teamcofh.com
+
+- name: Tinkers' Mechworks
+  author: 'mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox'
+  website: 
+
+- name: Thaumic Warden
+  author: 'MasterAbdoTGM50'
+  website: 
+
+- name: The Twilight Forest
+  author: 'Benimatic (Ben Mazur)'
+  website: http://www.minecraftforum.net/topic/561673-
+
+- name: Universal Electricity
+  author: 'Calclavia, DarkCow, tgame14, Alex_hawks'
+  website: www.universalelectricity.com/
+
+- name: Waila
+  author: 'ProfMobius'
+  website: 
+
+- name: Warp Book
+  author: 'panicnot42'
+  website: http://www.minecraftforum.net/topic/2266303-164-warp-book-mod/
+
+- name: WaslieCore
+  author: 'Wasliebob'
+  website: 
+
+- name: Wireless Redstone
+  author: 'ali4z, Eurymachus'
+  website: www.slimevoid.net/wireless-redstone
+  
+  #END SCRIPT OUTPUT
