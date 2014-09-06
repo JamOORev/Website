@@ -34,6 +34,7 @@
 - name: Othlon
   ign: Othlon
   role: member
+  job: Author Of StopGap
 - name: Mortvana
   ign: LordMortvana
   role: member
@@ -169,7 +170,7 @@
 - name: MushroomDynamo
   ign: MushroomDynamo
   role: member
-  job:
+  job: Amazing Builder
 - name: M3gaFr3ak
   ign: M3gaFr3ak
   role: member
@@ -189,11 +190,11 @@
 - name: MrBurd
   ign: Snateraar
   role: member
-  job:
+  job: Amazing Builder
 - name: sci4me
   ign: sci4me
   role: member
-  job: 
+  job: Author Of SciPower
 - name: CrazyPants
   ign: _CrazyPants_
   role: member
@@ -205,4 +206,4 @@
 - name: TheDarkKnight
   ign: sor1n
   role: member
-  job:
+  job: Author Of MODJAMMOD
