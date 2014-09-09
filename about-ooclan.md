@@ -1,6 +1,6 @@
 ---
 title: About OOClan
-subtitle: All you need to know about the JamCraft OOClan Revolution.
+subtitle: All you need to know about the Origin of the OOClan.
 header-image: index_back.png
 layout: single
 ---
@@ -32,6 +32,8 @@ Udaldor was friendly with a fellow modding community member called Lordmau5, who
 In early 2014, TheDrunkMafia has joined the community, and bringing all of his skill sets with him, if it weren’t for him, you wouldn’t be reading this right now, for there would be not site. DrunkMafia was given Moderator status for being a top member in the community and showing his commitment. He would help out the server where he could, as well as coding his mod; Thaumic Infusion.
 
 In July 14, TheOrangeGenius was assigned Moderator, due to his dedication towards the clan and his epic minecraft skills
+
+After mutual aspirations, we decided to team up with JamCraft to have a bigger community and to help move onto bigger and better things. 
 
 ### Why the name OOClan?
 
