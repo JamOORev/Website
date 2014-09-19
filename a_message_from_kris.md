@@ -4,6 +4,8 @@ header-image: index_back.png
 layout: single
 ---
 
+### Will Resume Admin Status On Saturday 4th October 2014
+
 ## Why did you leave?
  
 I recently got some results through my University degree that weren't what I needed to continue on with what I had planned. This is the one and only time i've been in such a situation where I actually questioned what do I do with my life and where do I go from here? For me to find out what my next step was, I needed to leave the clan for a while whilst I sorted out some stuff and got myself back up and attempted to solve this mess I had got myself into.
