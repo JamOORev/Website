@@ -15,7 +15,7 @@ The OOClan was created in 2011, as a community of 7 members who were all friends
 - Oobihaxorz
 - BradXD1995
 
-In the very begging, Eddie opened a server up a vanilla minecraft server, rented from a company called “Servercraft“. At this point, we had all just started playing minecraft and on this server we would alternate from Survival to Creative building, just basically doing what the Vanilla minecraft users do today.
+In the very beginning, Eddie opened a server up a vanilla minecraft server, rented from a company called “Servercraft“. At this point, we had all just started playing minecraft and on this server we would alternate from Survival to Creative building, just basically doing what the Vanilla minecraft users do today.
 
 In 2012 we discovered modded minecraft (through the Tekkit craze that was going on).  So we had increased the server specification with the same company in order to play on the modded version of minecraft, due to its nature of requiring more RAM etc. We played the Tekkit Classic pack for a while, with a couple extra friends joining in on the fun.
 
