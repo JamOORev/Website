@@ -1,0 +1,62 @@
+---
+layout: fancy-header
+title: Apply
+---
+<div class="row">
+	<div class="medium-6 large-7 columns">
+		You NEED A current members referral to apply. The only way you can get into the JamOORev Community is through a current member.
+	</div>
+	<div class="medium-6 large-5 columns">
+		<h3>Apply To Join</h3>
+		<form action="http://getsimpleform.com/messages?form_api_token=e53ab8f88d874bf66f6134187918b11d" method="post" data-abide>
+			<fieldset>
+				<legend>Basic Info</legend>
+				<div class="row">
+					<div class="small-3 columns">
+						<label for="apply-basic-ign" class="right inline required">IGN</label>
+					</div>
+					<div class="small-9 columns">
+						<input type="text" required pattern="alpha_numeric" name="ign" id="apply-basic-ign" maxlength="16" />
+					</div>
+				</div>
+				<div class="row">
+					<div class="small-3 columns">
+						<label for="apply-basic-refer" class="right inline required">Referral (IGN)</label>
+					</div>
+					<div class="small-9 columns">
+						<input type="text" required pattern="alpha_numeric" name="refer" id="apply-basic-refer" maxlength="16" />
+					</div>
+				</div>
+				<div class="row">
+					<div class="small-3 columns">
+						<label for="apply-basic-about" class="right inline required">About You</label>
+					</div>
+					<div class="small-9 columns">
+						<textarea rows="5" required name="about" id="apply-basic-about"></textarea>
+					</div>
+				</div>
+			</fieldset>
+			<fieldset>
+				<legend>Contact</legend>
+				<div class="row">
+					<div class="small-3 columns">
+						<label for="apply-contact-dropbox" class="right inline required">Dropbox Email</label>
+					</div>
+					<div class="small-9 columns">
+						<input type="email" required name="dropbox" id="apply-contact-dropbox" />
+					</div>
+				</div>
+				<div class="row">
+					<div class="small-3 columns">
+						<label for="apply-contact-media" class="right inline">Affiliated Media</label>
+					</div>
+					<div class="small-9 columns">
+						<textarea rows="5" name="media" id="apply-contact-media"></textarea>
+					</div>
+				</div>
+			</fieldset>
+			<input type='hidden' name='redirect_to' value='http://jamoorev.com/apply-thank-you.html' />
+			<input type="submit" class="button expand" />
+		</form>
+	</div>
+</div>

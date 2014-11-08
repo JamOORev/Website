@@ -1,0 +1,18 @@
+title: 'JamOORev'
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'pages'
+    values:
+      header-image: 'header-default.png'
+    
+# Utility :3
+gems:
+- 'emoji_for_jekyll'
+markdown: 'kramdown'
+exclude:
+- '/.*'
+- 'Thumbs.db'
+- '/Gemfile*'

@@ -6,20 +6,16 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/foundation.css" />
-	<link rel="stylesheet" href="css/index.css" />
+	<link rel="stylesheet" href="css/custom.css" />
     <script src="js/vendor/modernizr.js"></script>
 	<script src="js/vendor/require.js"></script>
-  </head>
-  <body id="index">
-	{% include navbar.html %}
-	<div id="center">
-            <div id="logo"></div>
-            <h1>{{ site.title }}</h1>
-            <p>A new era of modding has awoken.<br>And we are all here to test it.</p>
-    </div>
 	<script src="js/vendor/jquery.js"></script>
+  </head>
+  <body>
+	<div class="fixed">{% include navbar.html %}</div>
+	{{ content }}
+	<div class="row"><div class="columns"><hr/><div id="footer-text">&copy; Copyright JamOORev 2014</span></div></div>
     <script src="js/foundation.min.js"></script>
     <script>
       $(document).foundation();

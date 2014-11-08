@@ -1,0 +1,217 @@
+# PLEASE KEEP ALL ROLES LOWERCASE. I havent worked out how to get jekyll grouping while ignoring values.
+
+# Admins
+- name: hawks008
+  ign: theminecoder
+  role: admin
+  job: Website Developer and Founder Of Jamcraft
+- name: Kris1432
+  ign: Kris1432
+  role: admin
+  job: Owner and Founder Of The OOClan
+  
+# Randoms
+- name: eddie900
+  ign: eddie900
+  role: moderator
+  job: Author Of Ood's Mod
+- name: TheOrangeGenius
+  ign: TheOrangeGenius
+  role: moderator
+  job: Being Orange
+- name: Tombenpotter
+  ign: Tombenpotter
+  role: moderator
+  job: Author Of Electro-Magic Tools
+- name: allout
+  ign: allout58
+  role: moderator
+  job: Author Of ChowTime 
+- name: poppypoppop
+  ign: poppypoppop
+  role: moderator
+  job: Author of Magician's Artifice
+- name: Othlon
+  ign: Othlon
+  role: member
+  job: Author Of StopGap
+- name: Mortvana
+  ign: LordMortvana
+  role: member
+  job: Author Of Thermal Tinkerer
+- name: Fridgeboy
+  ign: lacsap32
+  role: member
+  job: Part Of The German Mafia
+- name: Domi
+  ign: domi1819
+  role: member
+  job: Author Of Growable Resources
+- name: imdutch21
+  ign: superbartje12
+  role: member
+  job: Author Of Oilcraft
+- name: BradXD1995
+  ign: BradXD1995
+  role: member
+  job: Founder Of OOClan
+- name: Becki987
+  ign: Becki987
+  role: member
+  job: Founder Of OOClan
+- name: Birrellmeister
+  ign: Birrellmeister
+  role: member
+  job: Founder Of OOClan
+- name: OobiHaxorz
+  ign: OobiHaxorz
+  role: member
+  job: Founder Of OOClan
+- name: wasliebob
+  ign: wasliebob
+  role: member
+  job: Author Of Thaumcraft Extras and Modular Machines
+- name: MisterXerox
+  ign: MisterXerox
+  role: member
+  job: 
+- name: iconmaster
+  ign: iconmaster5326
+  role: member
+  job: Author Of Aethercraft
+- name: theZorro266
+  ign: theZorro266
+  role: member
+  job: Author Of LogisticPipes
+- name: WerWolv
+  ign: wer_wolv
+  role: member
+  job: Author Of Eldritch Memorize
+- name: MasterAbdoTGM50
+  ign: MasterAbdoTGM50
+  role: member
+  job: Author Of Thaumic Warden
+- name: MrComputerGhost
+  ign: MrComputerGhost
+  role: member
+  job: Author Of Flowstone
+- name: Learwin
+  ign: Learwin
+  role: member
+  job: Author Of OldStyleWands
+- name: Neonbeta
+  ign: Neonbeta
+  role: member
+  job: 
+- name: TechMac
+  ign: MacInOz16
+  role: member
+  job: Texture Artist
+- name: theFlaxbeard
+  ign: Flaxbeard
+  role: member
+  job: Author of FSP
+- name: Udaldor
+  ign: VMvinner
+  role: member
+  job: YouTuber
+- name: Fuzzy
+  ign: fajii
+  role: member
+  job: YouTuber
+- name: Glassmaker
+  ign: Glazzmaker
+  role: member
+  job: Author of ExtraTiC
+- name: Drullkus
+  ign: Drullkus
+  role: member
+  job: Texture Artist
+- name: TheMike
+  ign: TrainerGuy22
+  role: member
+  job: Author Of Reliquary
+- name: matthewprenger
+  ign: matthewprenger
+  role: member
+  job: Author Of Server Tools
+- name: KillJoy  
+  ign: killjoy1221
+  role: member
+  job: Author Of TabbyChat
+- name: Xaw4
+  ign: Xaw4
+  role: member
+  job: 
+- name: Kkaylium
+  ign: mage_kkaylium
+  role: member
+  job: Author Of Techliumcraft
+- name: Micky2506
+  ign: Micky2506
+  role: member 
+  job: Programmer
+- name: Mitchellbrine
+  ign: Mitchellbrine
+  role: member
+  job: Author Of Diseasecraft
+- name: Skylord_Phil
+  ign: Skylord_Phil
+  role: member
+  job: Part of the German Mafia
+- name: lclc98
+  ign: lclc98
+  role: member
+  job: Author Of Atum
+- name: Rodger
+  ign: Rodger
+  role: member
+  job:
+- name: MushroomDynamo
+  ign: MushroomDynamo
+  role: member
+  job: Amazing Builder
+- name: M3gaFr3ak
+  ign: M3gaFr3ak
+  role: member
+  job: Author Of ExtraCells
+- name: DrunkMafia
+  ign: TheDrunkMafia
+  role: member
+  job: Author Of Thaumic Infusion
+- name: Lordmau5
+  ign: Lordmau5
+  role: member
+  job: Streamer
+- name: StoneWaves
+  ign: StoneWaves
+  role: member
+  job: 
+- name: MrBurd
+  ign: Snateraar
+  role: member
+  job: Amazing Builder
+- name: sci4me
+  ign: sci4me
+  role: member
+  job: Author Of CompSci
+- name: CrazyPants
+  ign: _CrazyPants_
+  role: member
+  job: Author Of EnderIO
+- name: SJ1133
+  ign: SJ1133
+  role: member
+  job:
+- name: TheDarkKnight
+  ign: sor1n
+  role: member
+  job: Author Of MODJAMMOD
+- name: Candice
+  ign: CandiceJoy
+  role: moderator
+  job: Programmer / Developer
+- name: maxpowa
+  ign: maxpowa
+  role: member
+  job: Professional derp
