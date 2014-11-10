@@ -4,17 +4,17 @@
 - name: hawks008
   ign: theminecoder
   role: admin
-  job: Website Developer and Founder Of Jamcraft
+  job: Website Developer and Head Admin of Jamcraft
 - name: Kris1432
   ign: Kris1432
   role: admin
-  job: Owner and Founder Of The OOClan
+  job: Owner and Founder of The OOClan
   
 # Randoms
 - name: eddie900
   ign: eddie900
   role: moderator
-  job: Author Of Ood's Mod
+  job: Author of Ood's Mod
 - name: TheOrangeGenius
   ign: TheOrangeGenius
   role: moderator
@@ -22,11 +22,11 @@
 - name: Tombenpotter
   ign: Tombenpotter
   role: moderator
-  job: Author Of Electro-Magic Tools
+  job: Author of Electro-Magic Tools
 - name: allout
   ign: allout58
   role: moderator
-  job: Author Of ChowTime 
+  job: Author of ChowTime 
 - name: poppypoppop
   ign: poppypoppop
   role: moderator
@@ -34,43 +34,43 @@
 - name: Othlon
   ign: Othlon
   role: member
-  job: Author Of StopGap
+  job: Author of StopGap
 - name: Mortvana
   ign: LordMortvana
   role: member
-  job: Author Of Thermal Tinkerer
+  job: Author of Thermal Tinkerer and Thaumic Revelations
 - name: Fridgeboy
   ign: lacsap32
   role: member
-  job: Part Of The German Mafia
+  job: Part of The German Mafia
 - name: Domi
   ign: domi1819
   role: member
-  job: Author Of Growable Resources
+  job: Author of Growable Resources
 - name: imdutch21
   ign: superbartje12
   role: member
-  job: Author Of Oilcraft
+  job: Author of Oilcraft
 - name: BradXD1995
   ign: BradXD1995
   role: member
-  job: Founder Of OOClan
+  job: Founder of OOClan
 - name: Becki987
   ign: Becki987
   role: member
-  job: Founder Of OOClan
+  job: Founder of OOClan
 - name: Birrellmeister
   ign: Birrellmeister
   role: member
-  job: Founder Of OOClan
+  job: Founder of OOClan
 - name: OobiHaxorz
   ign: OobiHaxorz
   role: member
-  job: Founder Of OOClan
+  job: Founder of OOClan
 - name: wasliebob
   ign: wasliebob
   role: member
-  job: Author Of Thaumcraft Extras and Modular Machines
+  job: Author of Thaumcraft Extras and Modular Machines
 - name: MisterXerox
   ign: MisterXerox
   role: member
@@ -78,31 +78,31 @@
 - name: iconmaster
   ign: iconmaster5326
   role: member
-  job: Author Of Aethercraft
+  job: Author of Aethercraft
 - name: theZorro266
   ign: theZorro266
   role: member
-  job: Author Of LogisticPipes
+  job: Author of LogisticPipes
 - name: WerWolv
   ign: wer_wolv
   role: member
-  job: Author Of Eldritch Memorize
+  job: Author of Eldritch Memorize
 - name: MasterAbdoTGM50
   ign: MasterAbdoTGM50
   role: member
-  job: Author Of Thaumic Warden
+  job: Author of Thaumic Warden (now Thaumic Revelations)
 - name: MrComputerGhost
   ign: MrComputerGhost
   role: member
-  job: Author Of Flowstone
+  job: Author of Flowstone
 - name: Learwin
   ign: Learwin
   role: member
-  job: Author Of OldStyleWands
+  job: Author of OldStyleWands
 - name: Neonbeta
   ign: Neonbeta
   role: member
-  job: 
+  job: That annoying Irishman (who was banned)
 - name: TechMac
   ign: MacInOz16
   role: member
@@ -110,7 +110,7 @@
 - name: theFlaxbeard
   ign: Flaxbeard
   role: member
-  job: Author of FSP
+  job: Original Author of Flaxbeard's Steam Power 
 - name: Udaldor
   ign: VMvinner
   role: member
@@ -122,23 +122,23 @@
 - name: Glassmaker
   ign: Glazzmaker
   role: member
-  job: Author of ExtraTiC
+  job: Author of ExtraTiC and Metallurgy 4
 - name: Drullkus
   ign: Drullkus
   role: member
-  job: Texture Artist
+  job: Texture Artist and Ranting Scotsman
 - name: TheMike
   ign: TrainerGuy22
   role: member
-  job: Author Of Reliquary
+  job: Author of Reliquary
 - name: matthewprenger
   ign: matthewprenger
   role: member
-  job: Author Of Server Tools
+  job: Author of Server Tools
 - name: KillJoy  
   ign: killjoy1221
   role: member
-  job: Author Of TabbyChat
+  job: Author of TabbyChat
 - name: Xaw4
   ign: Xaw4
   role: member
@@ -146,7 +146,7 @@
 - name: Kkaylium
   ign: mage_kkaylium
   role: member
-  job: Author Of Techliumcraft
+  job: Author of Techliumcraft
 - name: Micky2506
   ign: Micky2506
   role: member 
@@ -154,7 +154,7 @@
 - name: Mitchellbrine
   ign: Mitchellbrine
   role: member
-  job: Author Of Diseasecraft
+  job: Author of Diseasecraft
 - name: Skylord_Phil
   ign: Skylord_Phil
   role: member
@@ -162,11 +162,11 @@
 - name: lclc98
   ign: lclc98
   role: member
-  job: Author Of Atum
+  job: Author of Atum
 - name: Rodger
   ign: Rodger
   role: member
-  job:
+  job: Othlon's Older Brother
 - name: MushroomDynamo
   ign: MushroomDynamo
   role: member
@@ -174,11 +174,11 @@
 - name: M3gaFr3ak
   ign: M3gaFr3ak
   role: member
-  job: Author Of ExtraCells
+  job: Author of ExtraCells
 - name: DrunkMafia
   ign: TheDrunkMafia
   role: member
-  job: Author Of Thaumic Infusion
+  job: Author of Thaumic Infusion
 - name: Lordmau5
   ign: Lordmau5
   role: member
@@ -194,11 +194,11 @@
 - name: sci4me
   ign: sci4me
   role: member
-  job: Author Of CompSci
+  job: Derpcactus Author of CompSci
 - name: CrazyPants
   ign: _CrazyPants_
   role: member
-  job: Author Of EnderIO
+  job: Author of EnderIO
 - name: SJ1133
   ign: SJ1133
   role: member
@@ -206,7 +206,7 @@
 - name: TheDarkKnight
   ign: sor1n
   role: member
-  job: Author Of JewelryCraft
+  job: Author of JewelryCraft
 - name: Candice
   ign: CandiceJoy
   role: moderator
