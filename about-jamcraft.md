@@ -6,6 +6,7 @@ layout: single
 ---
 
 JamCraft started in December 2013 after ModJam 3 with a community of 16 modders/testers:
+
 - allout58
 - ChewBaker
 - domi1819
@@ -33,6 +34,7 @@ About 3 months later, in August of 2014, poppypoppop introduced us to the [OOCla
 Just thought I'd put this in here. Just cause About OOClan had one.
 -->
 ### Why the name JamCraft?
+
 While conceiving the idea of a giant modpack to test our mods, some of us tried coming up with names, eventually Mitchellbrine came up with the name JamCraft and it kind of stuck.
 
 <!--- (My computer was wiped clean not too long after, so I don't have a log of this name idea creation -Mitchell)  Someone insert some names we had. I really don't have any record. -->
