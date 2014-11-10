@@ -32,7 +32,7 @@ About 3 months later, in August of 2014, poppypoppop introduced us to the [OOCla
 
 <!---
 Just thought I'd put this in here. Just cause About OOClan had one.
--->
+
 ### Why the name JamCraft?
 
 While conceiving the idea of a giant modpack to test our mods, some of us tried coming up with names, eventually Mitchellbrine came up with the name JamCraft and it kind of stuck.
