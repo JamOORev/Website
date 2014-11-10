@@ -27,7 +27,7 @@ We set up a testing server for ours and other ModJam mods. KJ had set up a Jenki
 
 Skip ahead 5 months, and we come to ModJam 4. Those of us from before would hang out and help each other out during ModJam 4 in the ModJam TeamSpeak. After ModJam 4 we gained a few new friends and we just kept modding together. 
 
-About 3 months later, in August of 2014, poppypoppop introduced us to the OOClanners and we decided to take over (or join forces), creating the JamOORevolution as it is today.
+About 3 months later, in August of 2014, poppypoppop introduced us to the [OOClanners](about-ooclan.html) and we decided to take over (or join forces), creating the [JamOORevolution](about.html) as it is today.
 
 <!---
 Just thought I'd put this in here. Just cause About OOClan had one.
