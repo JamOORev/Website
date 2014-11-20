@@ -9,6 +9,10 @@
   ign: Kris1432
   role: admin
   job: Owner and Founder Of The OOClan
+- name: Candice
+  ign: CandiceJoy
+  role: admin
+  job: Programmer / Developer / Modder
   
 # Randoms
 - name: eddie900
@@ -206,12 +210,12 @@
 - name: TheDarkKnight
   ign: sor1n
   role: member
-  job: Author Of MODJAMMOD
-- name: Candice
-  ign: CandiceJoy
-  role: moderator
-  job: Programmer / Developer
+  job: Author Of JewelryCraft
 - name: maxpowa
   ign: maxpowa
   role: member
   job: Professional derp
+- name: Castleblake
+  ign: Castleblake
+  role: member
+  job: Texture Artist
