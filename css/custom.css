@@ -41,3 +41,7 @@ div.item-info-name, div.member-info-job, div.mod-info-author {
 	width: 100%;
 	text-align: center;
 }
+
+div.member-info-job {
+    height: 3em;
+}
