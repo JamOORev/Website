@@ -8,11 +8,11 @@
 - name: Kris1432
   ign: Kris1432
   role: admin
-  job: Owner and Founder Of The OOClan
+  job: Founder Of The OOClan and Vice Admin
 - name: Candice
   ign: CandiceJoy
   role: admin
-  job: Programmer / Developer / Modder
+  job: Programmer / Developer / Modder / Owner Of JamOORev
   
 # Randoms
 - name: eddie900
@@ -98,7 +98,7 @@
 - name: MrComputerGhost
   ign: MrComputerGhost
   role: member
-  job: Author Of Flowstone
+  job: Author Of Flowstone/Kroostmas Elf
 - name: Learwin
   ign: Learwin
   role: member
@@ -126,7 +126,7 @@
 - name: Glassmaker
   ign: Glazzmaker
   role: member
-  job: Author of ExtraTiC
+  job: Author of ExtraTiC/Kroostmas Elf
 - name: Drullkus
   ign: Drullkus
   role: member
@@ -158,7 +158,7 @@
 - name: Mitchellbrine
   ign: Mitchellbrine
   role: member
-  job: Author Of Diseasecraft
+  job: Author Of Diseasecraft/Kroostmas Elf
 - name: Skylord_Phil
   ign: Skylord_Phil
   role: member
@@ -198,7 +198,7 @@
 - name: sci4me
   ign: sci4me
   role: member
-  job: Author Of CompSci
+  job: Author Of CompSci/Kroostmas Elf
 - name: CrazyPants
   ign: _CrazyPants_
   role: member
