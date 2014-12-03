@@ -8,7 +8,11 @@
 - name: Kris1432
   ign: Kris1432
   role: admin
-  job: Owner and Founder Of The OOClan
+  job: Founder Of The OOClan and Vice Admin
+- name: Candice
+  ign: CandiceJoy
+  role: admin
+  job: Programmer / Developer / Modder / Owner Of JamOORev
   
 # Randoms
 - name: eddie900
@@ -94,15 +98,11 @@
 - name: MrComputerGhost
   ign: MrComputerGhost
   role: member
-  job: Author Of Flowstone
+  job: Author Of Flowstone/Kroostmas Elf
 - name: Learwin
   ign: Learwin
   role: member
   job: Author Of OldStyleWands
-- name: Neonbeta
-  ign: Neonbeta
-  role: member
-  job: 
 - name: TechMac
   ign: MacInOz16
   role: member
@@ -122,7 +122,7 @@
 - name: Glassmaker
   ign: Glazzmaker
   role: member
-  job: Author of ExtraTiC
+  job: Author of ExtraTiC/Kroostmas Elf
 - name: Drullkus
   ign: Drullkus
   role: member
@@ -154,7 +154,7 @@
 - name: Mitchellbrine
   ign: Mitchellbrine
   role: member
-  job: Author Of Diseasecraft
+  job: Author Of Diseasecraft/Kroostmas Elf
 - name: Skylord_Phil
   ign: Skylord_Phil
   role: member
@@ -194,7 +194,7 @@
 - name: sci4me
   ign: sci4me
   role: member
-  job: Author Of CompSci
+  job: Author Of CompSci/Kroostmas Elf
 - name: CrazyPants
   ign: _CrazyPants_
   role: member
@@ -207,10 +207,6 @@
   ign: sor1n
   role: member
   job: Author Of JewelryCraft
-- name: Candice
-  ign: CandiceJoy
-  role: moderator
-  job: Programmer / Developer
 - name: maxpowa
   ign: maxpowa
   role: member
@@ -219,3 +215,7 @@
   ign: Castleblake
   role: member
   job: Texture Artist
+- name: Mega
+  ign: megaman111
+  role: member
+  job: Streamer/Coffee Drinker
