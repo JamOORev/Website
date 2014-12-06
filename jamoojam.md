@@ -9,7 +9,9 @@ layout: single
 
 JamOOJam is a 96-hour modding competition. It would comprise of teams and solo modders, working for 96-hours to create a mod that would be distributed throughout the community.
 
-DATES OF JAMOOJAM:
+- - -
+
+## DATES OF JAMOOJAM: ##
 
 Friday, 19 December 2014 (Midnight GMT)
 
@@ -17,8 +19,9 @@ Friday, 19 December 2014 (Midnight GMT)
 
 Tuesday, 22 December 2014 (Midnight GMT)
 
+- - -
 
-RULES:
+## RULES: ##
 
 1. All content in the mod must be made during the 96 hours
 
@@ -38,8 +41,9 @@ RULES:
 
 8. Mods must not be core mods **ONLY**
 
+- - -
 
-CONTESTANT RULES:
+## CONTESTANT RULES: ##
 
 1. Teams can be up to 2 people
 
@@ -51,6 +55,7 @@ CONTESTANT RULES:
 
 5. Outside members are allowed to participate by **INVITE ONLY!**
 
+- - -
 
 Contestant Sign-Ups:
 
@@ -61,8 +66,9 @@ Contestant List:
 
 [https://docs.google.com/spreadsheets/d/1qrDPIfWMSahVhVeMKBOkfAj2_jrF1p2zoa06H6rDcbc/](https://docs.google.com/spreadsheets/d/1qrDPIfWMSahVhVeMKBOkfAj2_jrF1p2zoa06H6rDcbc/)
 
+- - -
 
-PRIZES:
+## PRIZES: ##
 
 **1st Prize:** Each member of the team would get a Steam game gift (your choice, up to $20 per team) (+2nd & 3rd prize benefits)
 
@@ -70,8 +76,9 @@ PRIZES:
 
 **3rd Prize:** Mod gets reviewed by poppypopop, sci4me, and other willing JamOORev YouTubers
 
+- - -
 
-VOTING:
+## VOTING: ##
 
 - Voting will be a joint effort from the community and the members of JamOORev.
 
