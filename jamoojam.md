@@ -86,6 +86,11 @@ Contestant List:
 
 - A form to vote from will be released after JamOOJam.
 
+- - -
+
+### Want to talk with us about JamOOJam? Join us on [#JamOOJam](http://webchat.esper.net/?nick=&channels=JamOOJam&fg_color=39EF5B&fg_sec_color=38A7EF&bg_color=171717) on irc.esper.net
+
+- - -
 
 We'd like to thank you for your cooperation and participation! Thank you so much. I hope it's a great time.
 
