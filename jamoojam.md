@@ -29,7 +29,7 @@ Tuesday, 22 December 2014 (Midnight GMT)
 
 3. All mods must be open source (GitHub or BitBucket)
 
-4. Developers must commit every 15-minutes, stream while coding, or submit a time-lapse afterwards.
+4. Developers must commit every 15-minutes, stream while coding, or submit a time-lapse afterwards. (If you are not a JamOORev member, but an invitee)
 
 5. Mods must be stand-alone (with the exception of Forge or libraries Minecraft uses)
 
