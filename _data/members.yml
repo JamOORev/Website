@@ -186,7 +186,7 @@
 - name: StoneWaves
   ign: StoneWaves
   role: member
-  job: Sexy Amazing Person of Awesomeness(tm)
+  job: Sexy Amazing Person of Awesomeness
 - name: MrBurd
   ign: Snateraar
   role: member
@@ -226,4 +226,4 @@
 - name: kj4ips
   ign: kj4ips
   role: member
-  
+  job:
