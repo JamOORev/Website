@@ -55,12 +55,17 @@ Tuesday, 22 December 2014 (Midnight GMT)
 
 5. Outside members are allowed to participate by **INVITE ONLY!**
 
+6. There will be 4 wildcard participants and 2 wildcard teams, each with a repo made by the JamOOJam team.
+
 - - -
 
 Contestant Sign-Ups:
 
 [http://goo.gl/forms/CC0SjnDsqL](http://goo.gl/forms/CC0SjnDsqL)
 
+Wildcard Submissions:
+
+[http://goo.gl/forms/5xucwWeuhX](http://goo.gl/forms/5xucwWeuhX)
 
 Contestant List:
 
