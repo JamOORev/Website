@@ -96,6 +96,11 @@ Contestant List:
 
 4. (Optional) A picture to display with your mod
 
+
+- Submissions will not be accepted after 1 hour after JamOOJam ends.
+ 
+- Late submissions will be disqualified from any prizes.
+
 - - -
 
 ## VOTING: ##
