@@ -31,9 +31,7 @@ Tuesday, 22 December 2014 (Midnight GMT)
 
 4. Developers must commit every 15-minutes, stream while coding, or submit a time-lapse afterwards. (If you are not a JamOORev member, but an invitee)
 
-5. Mods must be stand-alone (with the exception of Forge or libraries Minecraft uses)
-
-5.1. Mods can include libraries that do not reference Forge or MC (basically, no mod requirements)
+5. Mods must be stand-alone (with the exception of Forge or libraries Minecraft uses) (1). Mods can include libraries that do not reference Forge or MC (basically, no mod requirements)
 
 6. Mods must be multiplayer compatible (you'll understand later)
 
@@ -80,6 +78,28 @@ Contestant List:
 **2nd Prize:** Mod gets featured on JamOORev website (+3rd prize benefits)
 
 **3rd Prize:** Mod gets reviewed by poppypopop, sci4me, and other willing JamOORev YouTubers
+
+- - -
+
+## SUBMISSIONS: ##
+
+- Users must submit their mod via [email](mailto:jamoojamteam@gmail.com?Subject=JamOOJam%20Alpha%20Mod%20Submission)
+
+- Mod submissions must include:
+
+
+1. A binary for the mod
+
+2. The zipped source
+
+3. A short documentation or description
+
+4. (Optional) A picture to display with your mod
+
+
+- Submissions will not be accepted after 1 hour after JamOOJam ends.
+ 
+- Late submissions will be disqualified from any prizes.
 
 - - -
 
