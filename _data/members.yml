@@ -35,6 +35,10 @@
   ign: poppypoppop
   role: moderator
   job: Author of Magician's Artifice
+- name: Glassmaker
+  ign: Glazzmaker
+  role: member
+  job: Author of ExtraTiC and Metallurgy/Kroostmas Elf
 - name: Othlon
   ign: Othlon
   role: member
@@ -119,10 +123,6 @@
   ign: fajii
   role: member
   job: YouTuber
-- name: Glassmaker
-  ign: Glazzmaker
-  role: member
-  job: Author of ExtraTiC and Metallurgy/Kroostmas Elf
 - name: Drullkus
   ign: Drullkus
   role: member
