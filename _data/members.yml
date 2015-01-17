@@ -194,7 +194,7 @@
 - name: sci4me
   ign: sci4me
   role: member
-  job: Derpcactus / Author of CompSci and Torcherino / Kroostmas Elf
+  job: Derpcactus / Author of Torcherino
 - name: CrazyPants
   ign: _CrazyPants_
   role: member
@@ -245,5 +245,9 @@
   job: 
 - name: Jaden7734
   ign: Jaden7734
+  role: member
+  job: 
+- name: Yuuki
+  ign: SythsGod
   role: member
   job: 
