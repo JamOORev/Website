@@ -42,11 +42,11 @@
 - name: Othlon
   ign: Othlon
   role: member
-  job: Author of StopGap
+  job: Author of StopGap and Cherrypig <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/2000px-Heart_coraz%C3%B3n.svg.png" height="20" width="20"/>
 - name: Mortvana
   ign: LordMortvana
   role: member
-  job: Author of Flux Gear Mods/Kroostmas Potato
+  job: Author of Flux Gear Mods / Kroostmas Potato
 - name: Fridgeboy
   ign: lacsap32
   role: member
@@ -90,7 +90,7 @@
 - name: theZorro266
   ign: theZorro266
   role: member
-  job: Author of LogisticPipes / TeamSpeak and Main Server Host
+  job: Author of LogisticPipes / TeamSpeak Server Host
 - name: WerWolv
   ign: wer_wolv
   role: member
@@ -250,4 +250,4 @@
 - name: Yuuki
   ign: SythsGod
   role: member
-  job: 
+  job: Developer / Streamer / Ice Cold Killer
