@@ -4,7 +4,7 @@
 - name: hawks008
   ign: theminecoder
   role: admin
-  job: Website Developer and Head Admin of Jamcraft
+  job: Website Developer and Vice Admin
 - name: Kris1432
   ign: Kris1432
   role: admin
@@ -12,7 +12,7 @@
 - name: Candice
   ign: CandiceJoy
   role: admin
-  job: Programmer / Developer / Modder / Owner of JamOORev
+  job: Developer / Modder / Head Admin of JamOORev
   
 # Randoms
 - name: eddie900
@@ -38,7 +38,7 @@
 - name: Glassmaker
   ign: Glazzmaker
   role: moderator
-  job: Author of ExtraTiC and Metallurgy/Kroostmas Elf
+  job: Author of ExtraTiC and Metallurgy / Kroostmas Elf
 - name: Othlon
   ign: Othlon
   role: member
@@ -102,7 +102,7 @@
 - name: MrComputerGhost
   ign: MrComputerGhost
   role: member
-  job: Author of Flowstone/Kroostmas Elf
+  job: Author of Flowstone / Kroostmas Elf
 - name: Learwin
   ign: Learwin
   role: member
@@ -154,7 +154,7 @@
 - name: Mitchellbrine
   ign: Mitchellbrine
   role: member
-  job: Author of Diseasecraft/Kroostmas Elf
+  job: Author of Diseasecraft / Kroostmas Elf
 - name: Skylord_Phil
   ign: Skylord_Phil
   role: member
@@ -162,7 +162,7 @@
 - name: lclc98
   ign: lclc98
   role: member
-  job: Author of Atum/Metallurgy Bees
+  job: Author of Atum / Metallurgy Bees
 - name: Rodger
   ign: Rodger
   role: member
@@ -194,7 +194,7 @@
 - name: sci4me
   ign: sci4me
   role: member
-  job: Derpcactus Author of CompSci/Kroostmas Elf
+  job: Derpcactus / Author of CompSci and Torcherino / Kroostmas Elf
 - name: CrazyPants
   ign: _CrazyPants_
   role: member
@@ -210,7 +210,7 @@
 - name: maxpowa
   ign: maxpowa
   role: member
-  job: Professional Derp/Lite Server Host
+  job: Professional Derp
 - name: Castleblake
   ign: Castleblake
   role: member
@@ -218,8 +218,8 @@
 - name: Mega
   ign: megaman111
   role: member
-  job: Streamer/Coffee Drinker
-- name: tlovetech
+  job: Streamer / Coffee Drinker
+- name: TLoveTech
   ign: tlovetech
   role: member
   job: Streamer
@@ -231,3 +231,19 @@
   ign: Kihira
   role: member
   job: Author of Tails, Player Beacons & more
+- name: DemoXin
+  ign: DemoXin
+  role: member
+  job: 
+- name: Carinail
+  ign: Carinail
+  role: member
+  job: 
+- name: KurtusReto
+  ign: KurtusReto
+  role: member
+  job: 
+- name: Jaden7734
+  ign: Jaden7734
+  role: member
+  job: 
