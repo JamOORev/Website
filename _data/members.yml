@@ -12,7 +12,7 @@
 - name: Candice
   ign: CandiceJoy
   role: admin
-  job: Developer / Modder / Head Admin of JamOORev
+  job: Author of <a href="http://minecraft.curseforge.com/mc-mods/226470-candis-per-user-difficulty">Candi's Per-User Difficulty</a> / Developer / Modder / Head Admin of JamOORev
   
 # Randoms
 - name: eddie900
@@ -26,23 +26,23 @@
 - name: Tombenpotter
   ign: Tombenpotter
   role: moderator
-  job: Author of Electro-Magic Tools and Sanguimancy
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292998-industrialcraft-2-thaumcraft-4-electro-magic">Electro-Magic Tools</a> and <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy">Sanguimancy</a>
 - name: allout
   ign: allout58
   role: moderator
-  job: Author of ChowTime 
+  job: Author of <a href="http://minecraft.curseforge.com/mc-mods/222117-chowtime">ChowTime</a> 
 - name: poppypoppop
   ign: poppypoppop
   role: moderator
-  job: Author of Magician's Artifice
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2219688-magicians-artifice">Magician's Artifice</a>
 - name: Glassmaker
   ign: Glazzmaker
   role: moderator
-  job: Author of ExtraTiC and Metallurgy / Kroostmas Elf <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/2000px-Heart_coraz%C3%B3n.svg.png" height="20" width="20"/>
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212-extratic-tinkers-construct-mod-support-add-on">ExtraTiC</a> and Maintainer of <a href="http://www.curse.com/mc-mods/minecraft/metallurgy">Metallurgy</a> / Kroostmas Elf <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/2000px-Heart_coraz%C3%B3n.svg.png" height="20" width="20"/>
 - name: Othlon
   ign: Othlon
   role: member
-  job: Author of StopGap and Cherrypig <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/2000px-Heart_coraz%C3%B3n.svg.png" height="20" width="20"/>
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292473-stopgap-2-0-6">StopGap and <a href="https://mods.io/mods/1103-cherrypig">Cherrypig</a> <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/2000px-Heart_coraz%C3%B3n.svg.png" height="20" width="20"/>
 - name: Mortvana
   ign: LordMortvana
   role: member
@@ -54,11 +54,11 @@
 - name: Domi
   ign: domi1819
   role: member
-  job: Author of Growable Resources
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293067-1-6-4-growableresources-0-3-4-now-with-miniature">Growable Resources</a>
 - name: imdutch21
   ign: superbartje12
   role: member
-  job: Author of Oilcraft
+  job: Author of <a href="http://www.curse.com/mc-mods/minecraft/225467-oilcraft">Oilcraft</a>
 - name: BradXD1995
   ign: BradXD1995
   role: member
@@ -78,7 +78,7 @@
 - name: wasliebob
   ign: wasliebob
   role: member
-  job: Author of Thaumcraft Extras and Modular Machines
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292561-1-6-thaumcraft-extras-1-1-2-a-lot-of-fixes-and">Thaumcraft Extras</a> and <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2145929-1-7-10-modular-machines-customize-your-machines">Modular Machines</a>
 - name: MisterXerox
   ign: MisterXerox
   role: member
@@ -86,11 +86,11 @@
 - name: iconmaster
   ign: iconmaster5326
   role: member
-  job: Author of Aethercraft
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293204-aethercraft-1-4-5-aetheral-alchemy-turn-matter">Aethercraft</a>
 - name: theZorro266
   ign: theZorro266
   role: member
-  job: Author of LogisticPipes / TeamSpeak Server Host
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes">LogisticPipes</a> / TeamSpeak Server Host
 - name: WerWolv
   ign: wer_wolv
   role: member
@@ -98,11 +98,11 @@
 - name: MasterAbdoTGM50
   ign: MasterAbdoTGM50
   role: member
-  job: Author of Thaumic Revelation and Wanderer
+  job: Author of Thaumic Revelations and Wanderer
 - name: MrComputerGhost
   ign: MrComputerGhost
   role: member
-  job: Author of Flowstone / Kroostmas Elf
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091795-1-7-2-flowstone-modjam-4-forge">Flowstone</a> and <a href="http://www.curse.com/mc-mods/minecraft/227065-runic-dungeons">Runic Dungeons</a> / Kroostmas Elf
 - name: Learwin
   ign: Learwin
   role: member
@@ -114,7 +114,7 @@
 - name: theFlaxbeard
   ign: Flaxbeard
   role: member
-  job: Original Author of Flaxbeard's Steam Power
+  job: Original Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2246930-flaxbeards-steam-power-beta-0-27-3-updated-dec-23">Flaxbeard's Steam Power</a>
 - name: Udaldor
   ign: VMvinner
   role: member
@@ -134,7 +134,7 @@
 - name: matthewprenger
   ign: matthewprenger
   role: member
-  job: Author of Server Tools
+  job: Author of <a href="http://servertools.info/#!index.md">Server Tools</a>
 - name: KillJoy  
   ign: killjoy1221
   role: member
@@ -154,7 +154,7 @@
 - name: Mitchellbrine
   ign: Mitchellbrine
   role: member
-  job: Author of Diseasecraft / Kroostmas Elf
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091753-diseasecraft">Diseasecraft</a> / Kroostmas Elf
 - name: Skylord_Phil
   ign: Skylord_Phil
   role: member
@@ -162,7 +162,7 @@
 - name: lclc98
   ign: lclc98
   role: member
-  job: Author of Atum / Metallurgy Bees
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288464-atum-journey-into-the-sands">Atum</a> / Metallurgy Bees
 - name: Rodger
   ign: Rodger
   role: member
@@ -174,11 +174,11 @@
 - name: M3gaFr3ak
   ign: M3gaFr3ak
   role: member
-  job: Author of ExtraCells
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-3-2-1-34-2-2-28">ExtraCells</a>
 - name: DrunkMafia
   ign: TheDrunkMafia
   role: member
-  job: Author of Thaumic Infusion
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445452-tc4-add-on-thaumic-infusion-public-beta-is-out">Thaumic Infusion</a>
 - name: Lordmau5
   ign: Lordmau5
   role: member
@@ -194,7 +194,7 @@
 - name: sci4me
   ign: sci4me
   role: member
-  job: Derpcactus / Author of Torcherino
+  job: Derpcactus / Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic">Torcherino</a>
 - name: CrazyPants
   ign: _CrazyPants_
   role: member
@@ -206,7 +206,7 @@
 - name: TheDarkKnight
   ign: sor1n
   role: member
-  job: Author of JewelryCraft
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293063-1-7-10-sp-mp-lan-jewelrycraft-custom-molten-metal">JewelryCraft</a>
 - name: maxpowa
   ign: maxpowa
   role: member
@@ -230,7 +230,7 @@
 - name: Kihira
   ign: Kihira
   role: member
-  job: Author of Tails, Player Beacons & more
+  job: Author of <a href="http://kihira.uk/category/mcmods/">Tails, Player Beacons & more</a>
 - name: DemoXin
   ign: DemoXin
   role: member
@@ -251,3 +251,7 @@
   ign: SythsGod
   role: member
   job: Developer / Streamer / Ice Cold Killer
+- name: SpitefulFox
+  ign: SpitefulFox
+  role: member
+  job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-552-prerelease">Forbidden Magic</a> and <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2152723-ridiculous-world-for-those-who-like-their-biomes">Ridiculous Worlds</a>
