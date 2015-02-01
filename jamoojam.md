@@ -15,9 +15,9 @@ JamOOJam is a 96-hour modding competition. It would comprise of teams and solo m
 
 ## OVERALL EXCELLENCE ##
 
-First Place: Wireless Item Passaging by Mitchellbrine (Featured at [Featured Mods](featured_mods.html))
+First Place: Wireless Item Passaging by Mitchellbrine (Featured at [Featured Mods](featured-mods.html))
 
-Second Place: Per-User Difficulty by CandiceJoy (Featured at [Featured Mods](featured_mods.html))
+Second Place: Per-User Difficulty by CandiceJoy (Featured at [Featured Mods](featured-mods.html))
 
 Third Place: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)]
 
