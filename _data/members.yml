@@ -44,11 +44,11 @@
   role: member
   job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292473-stopgap-2-0-6">StopGap</a> and <a href="https://mods.io/mods/1103-cherrypig">Cherrypig</a> <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/2000px-Heart_coraz%C3%B3n.svg.png" height="20" width="20"/>
 - name: Mortvana
-  ign: LordMortvana
+  ign: Mortvana
   role: member
   job: Author of Flux Gear Mods / Kroostmas Potato
-- name: Fridgeboy
-  ign: lacsap32
+- name: FridgeBoy
+  ign: FridgeBoy
   role: member
   job: Part of The German Mafia
 - name: Domi
@@ -56,7 +56,7 @@
   role: member
   job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293067-1-6-4-growableresources-0-3-4-now-with-miniature">Growable Resources</a>
 - name: imdutch21
-  ign: superbartje12
+  ign: imdutch21
   role: member
   job: Author of <a href="http://www.curse.com/mc-mods/minecraft/225467-oilcraft">Oilcraft</a>
 - name: BradXD1995
@@ -108,7 +108,7 @@
   role: member
   job: Author of OldStyleWands
 - name: TechMac
-  ign: MacInOz16
+  ign: TechMac
   role: member
   job: Texture Artist
 - name: theFlaxbeard
@@ -116,7 +116,7 @@
   role: member
   job: Original Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2246930-flaxbeards-steam-power-beta-0-27-3-updated-dec-23">Flaxbeard's Steam Power</a>
 - name: Udaldor
-  ign: VMvinner
+  ign: Udaldor
   role: member
   job: YouTuber
 - name: Fuzzy
@@ -126,7 +126,7 @@
 - name: Drullkus
   ign: Drullkus
   role: member
-  job: Texture Artist and Ranting Scotsman
+  job: <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2254671-chisel-2-2-3-7">Chisel</a> Texture Artist and Ranting Scotsman
 - name: TheMike
   ign: TrainerGuy22
   role: member
@@ -230,7 +230,7 @@
 - name: Kihira
   ign: Kihira
   role: member
-  job: Author of <a href="http://minecraft.curseforge.com/mc-mods/223584-tails">Tails</a>, <a href="http://minecraft.curseforge.com/mc-mods/77330-player-beacons">Player Beacons</a> & more
+  job: Author of <a href="http://minecraft.curseforge.com/mc-mods/223584-tails">Tails</a>, <a href="http://minecraft.curseforge.com/mc-mods/77330-player-beacons">Player Beacons</a>, & more
 - name: DemoXin
   ign: DemoXin
   role: member
@@ -248,10 +248,18 @@
   role: member
   job: 
 - name: Yuuki
-  ign: SythsGod
+  ign: Syths
   role: member
   job: Developer / Streamer / Ice Cold Killer
 - name: SpitefulFox
   ign: SpitefulFox
   role: member
   job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-552-prerelease">Forbidden Magic</a> and <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2152723-ridiculous-world-for-those-who-like-their-biomes">Ridiculous World</a>
+- name: Swants
+  ign: Swants
+  role: member
+  job: Crazy Idiot who Builds Huge Stuff
+- name: Erato Nysiad
+  ign: EratoNysiad
+  role: member
+  job: Team Metallurgy Artist

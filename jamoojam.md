@@ -11,6 +11,58 @@ JamOOJam is a 96-hour modding competition. It would comprise of teams and solo m
 
 - - -
 
+# Who won JamOOJam? #
+
+## OVERALL EXCELLENCE ##
+
+First Place: Wireless Item Passaging by Mitchellbrine (Featured at [Featured Mods](featured-mods.html))
+
+Second Place: Per-User Difficulty by CandiceJoy (Featured at [Featured Mods](featured-mods.html))
+
+Third Place: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)]
+
+## Best Aesthetics ##
+
+![](http://puu.sh/fgxtD/671ad08630.png)
+
+(The vote for P.N. was ceded to Jam Mod) 
+
+1st: Jam Mod by poppypoppop [N/A]
+
+2nd: Wireless Item Passaging by Mitchellbrine [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
+
+## Most Inventive ##
+
+![](http://puu.sh/fgxwX/7973f37c6a.png)
+
+1st: Wireless Item Passaging by Mitchellbrine [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
+
+2nd: Per-User Difficulty by CandiceJoy [[Link](http://www.curse.com/mc-mods/minecraft/226470-candis-per-user-difficulty)]
+
+3rd: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)]
+
+## Most Inventive User Interation ##
+
+![](http://puu.sh/fgxwd/e4890801c0.png)
+
+1st: Per-User Difficulty by CandiceJoy [[Link](http://www.curse.com/mc-mods/minecraft/226470-candis-per-user-difficulty)]
+
+2nd: Wireless Item Passaging [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
+
+3rd: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)] / Jam Mod by poppypoppop [N/A]
+
+## Most Balanced Progression ##
+
+![](http://puu.sh/fgxuZ/b83bab7603.png)
+
+1st: Wireless Item Passaging by Mitchellbrine [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
+
+2nd: Per-User Difficulty by CandiceJoy [[Link](http://www.curse.com/mc-mods/minecraft/226470-candis-per-user-difficulty)]
+
+3rd: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)]
+
+- - -
+
 ## DATES OF JAMOOJAM: ##
 
 Friday, 19 December 2014 (Midnight GMT)
@@ -120,3 +172,5 @@ Contestant List:
 We'd like to thank you for your cooperation and participation! Thank you so much. I hope it's a great time.
 
 -Mitchellbrine
+
+(Co-creator of JamOOJam)
