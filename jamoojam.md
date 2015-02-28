@@ -15,7 +15,7 @@ JamOOJam is a 96-hour modding competition. It would comprise of teams and solo m
 
 "Man, I missed out on checking who won JamOOJam! What'll I do now?"
 
-**FEAR NOT** kind citizen! Check the [Featured Mods](featured\_mods.html) page for previous winners of JamOOJam!
+**FEAR NOT** kind citizen! Check the [Featured Mods](featured_mods.html) page for previous winners of JamOOJam!
 
 - - -
 
@@ -92,7 +92,7 @@ Wildcard Submissions:
 
 Contestant List:
 
-[https://docs.google.com/spreadsheets/d/1yWbOjyny9KheWhsAtKtj\_GJKD-Xj9aFtVykQupEA11U](https://docs.google.com/spreadsheets/d/1yWbOjyny9KheWhsAtKtj\_GJKD-Xj9aFtVykQupEA11U)
+[https://docs.google.com/spreadsheets/d/1yWbOjyny9KheWhsAtKtj_GJKD-Xj9aFtVykQupEA11U](https://docs.google.com/spreadsheets/d/1yWbOjyny9KheWhsAtKtj_GJKD-Xj9aFtVykQupEA11U)
 
 - - -
 
