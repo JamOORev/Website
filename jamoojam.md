@@ -11,125 +11,108 @@ JamOOJam is a 96-hour modding competition. It would comprise of teams and solo m
 
 - - -
 
-# Who won JamOOJam? #
+## PREVIOUS WINNERS: ##
 
-## OVERALL EXCELLENCE ##
+"Man, I missed out on checking who won JamOOJam! What'll I do now?"
 
-First Place: Wireless Item Passaging by Mitchellbrine (Featured at [Featured Mods](featured-mods.html))
-
-Second Place: Per-User Difficulty by CandiceJoy (Featured at [Featured Mods](featured-mods.html))
-
-Third Place: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)]
-
-## Best Aesthetics ##
-
-![](http://puu.sh/fgxtD/671ad08630.png)
-
-(The vote for P.N. was ceded to Jam Mod) 
-
-1st: Jam Mod by poppypoppop [N/A]
-
-2nd: Wireless Item Passaging by Mitchellbrine [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
-
-## Most Inventive ##
-
-![](http://puu.sh/fgxwX/7973f37c6a.png)
-
-1st: Wireless Item Passaging by Mitchellbrine [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
-
-2nd: Per-User Difficulty by CandiceJoy [[Link](http://www.curse.com/mc-mods/minecraft/226470-candis-per-user-difficulty)]
-
-3rd: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)]
-
-## Most Inventive User Interation ##
-
-![](http://puu.sh/fgxwd/e4890801c0.png)
-
-1st: Per-User Difficulty by CandiceJoy [[Link](http://www.curse.com/mc-mods/minecraft/226470-candis-per-user-difficulty)]
-
-2nd: Wireless Item Passaging [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
-
-3rd: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)] / Jam Mod by poppypoppop [N/A]
-
-## Most Balanced Progression ##
-
-![](http://puu.sh/fgxuZ/b83bab7603.png)
-
-1st: Wireless Item Passaging by Mitchellbrine [[Link](http://www.curse.com/mc-mods/minecraft/226393-wireless-item-passaging)]
-
-2nd: Per-User Difficulty by CandiceJoy [[Link](http://www.curse.com/mc-mods/minecraft/226470-candis-per-user-difficulty)]
-
-3rd: Positronic Neutration by sci4me [[Link](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290415-sci4mes-mods-scimclib-torcherino-positronic)]
+**FEAR NOT** kind citizen! Check the [Featured Mods](featured\_mods.html) page for previous winners of JamOOJam!
 
 - - -
 
 ## DATES OF JAMOOJAM: ##
 
-Friday, 19 December 2014 (Midnight GMT)
+Friday, 27 March 2015 (Midnight GMT)
 
 *through*
 
-Tuesday, 22 December 2014 (Midnight GMT)
+Tuesday, 31 March 2015 (Midnight GMT)
 
 - - -
 
 ## RULES: ##
 
-1. All content in the mod must be made during the 96 hours
+1. All content in the mod/map must be made during the 96 hours
 
-2. Mod must be made to work with Forge 1240
+### Mod Specific Rules: ###
 
-3. All mods must be open source (GitHub or BitBucket)
+1. Mod must be made to work with Forge 1240
 
-4. Developers must commit every 15-minutes, stream while coding, or submit a time-lapse afterwards. (If you are not a JamOORev member, but an invitee)
+2. All mods must be open source (GitHub or BitBucket)
 
-5. Mods must be stand-alone (with the exception of Forge or libraries Minecraft uses) (1). Mods can include libraries that do not reference Forge or MC (basically, no mod requirements)
+3. Developers must commit every 15-minutes, stream while coding, or submit a time-lapse afterwards. (If you are not a JamOORev member, but an invitee.)
 
-6. Mods must be multiplayer compatible (you'll understand later)
+4. Mods must be stand-alone (with the exception of Forge or libraries Minecraft uses) 
+ 1. Mods can include libraries that do not reference Forge or MC (basically, no mod requirements)
 
-7. Mods must be coded in **Java** or **Scala**
+5. Mods must be multiplayer compatible
 
-8. Mods must not be core mods **ONLY**
+6. Mods must be coded in **Java** or **Scala**
+
+7. Mods must not be core mods **ONLY**
+
+### Map Specific Rules: ###
+
+1. You can use any modpack to create the map.
+ 
+2. The public MUST have permission to view that pack. (You can't do a pack you beta test \*cough, cough\* JamOORevMain \*cough\*)
+ 
+3. You MUST obey licensing (Being a part of JamOOJam does not exempt you from any illegal actions)
+ 
+4. VoxelSniper, MCEdit, WorldEdit, WorldPainter and other map-editing tools can be used.
+
+5. Must have a timelapse of the creation (if not a JamOORev member, but an invitee or wildcard)
 
 - - -
 
 ## CONTESTANT RULES: ##
 
-1. Teams can be up to 2 people
+1. Teams can be up to 4 people (6 if making a map)
 
-2. You must share a repository (no using two repositories)
+2. Contestants must be a member of JamOORev
 
-3. Multiple branches are fine.
+3. Outside members are allowed to participate by **INVITE ONLY!**
 
-4. Contestants must be a member of JamOORev
+### MODDING CONTESTANT RULES: ###
 
-5. Outside members are allowed to participate by **INVITE ONLY!**
+4. You must share a repository (no using two repositories)
 
-6. There will be 4 wildcard participants and 2 wildcard teams, each with a repo made by the JamOOJam team.
+5. Multiple branches are fine.
+
+6. There will be 4 wildcard participants and 2 wildcard teams, each with a repo made by the JamOOJam team. (Repository is for modding)
 
 - - -
 
 Contestant Sign-Ups:
 
-[http://goo.gl/forms/CC0SjnDsqL](http://goo.gl/forms/CC0SjnDsqL)
+[http://goo.gl/forms/502rRYu5Ie](http://goo.gl/forms/502rRYu5Ie)
 
 Wildcard Submissions:
 
-[http://goo.gl/forms/5xucwWeuhX](http://goo.gl/forms/5xucwWeuhX)
+[http://goo.gl/forms/hle83t5MqD](http://goo.gl/forms/hle83t5MqD)
 
 Contestant List:
 
-[https://docs.google.com/spreadsheets/d/1qrDPIfWMSahVhVeMKBOkfAj2_jrF1p2zoa06H6rDcbc/](https://docs.google.com/spreadsheets/d/1qrDPIfWMSahVhVeMKBOkfAj2_jrF1p2zoa06H6rDcbc/)
+[https://docs.google.com/spreadsheets/d/1yWbOjyny9KheWhsAtKtj\_GJKD-Xj9aFtVykQupEA11U](https://docs.google.com/spreadsheets/d/1yWbOjyny9KheWhsAtKtj\_GJKD-Xj9aFtVykQupEA11U)
 
 - - -
 
 ## PRIZES: ##
+
+### Modding Prizes: ###
 
 **1st Prize:** Each member of the team would get a Steam game gift (your choice, up to $20 per team) (+2nd & 3rd prize benefits)
 
 **2nd Prize:** Mod gets featured on JamOORev website (+3rd prize benefits)
 
 **3rd Prize:** Mod gets reviewed by poppypopop, sci4me, and other willing JamOORev YouTubers
+
+### Map Prizes: ###
+
+**1st Prize:** Map gets featured on JamOORev website (+2nd & 3rd prize benefits)
+
+**2nd Prize:** Map gets promoted on social media by participating JamOORev members (+3rd Prize)
+
+**3rd Prize:** Mitchellbrine and other JamOORev members try their hand at your map and (most likely) fail. Did I mention at least Mitchell is going to record it?
 
 - - -
 
@@ -139,17 +122,25 @@ Contestant List:
 
 - Mod submissions must include:
 
+ 1. A binary for the mod
 
-1. A binary for the mod
+ 2. The zipped source
 
-2. The zipped source
+ 3. A short documentation or description
 
-3. A short documentation or description
+ 4. (Optional) A picture to display with your mod
 
-4. (Optional) A picture to display with your mod
+- Map Submissions must include:
 
+ 1. A zip file of the map
+ 
+ 2. A list of the mods/modpack
 
-- Submissions will not be accepted after 1 hour after JamOOJam ends.
+ 3. A short description
+
+ 4. (Optional) A picture to display with your map
+
+- Submissions will not be accepted after 1 hour after JamOOJam ends. (Time zones might be weird, we'll try to compensate)
  
 - Late submissions will be disqualified from any prizes.
 
@@ -162,6 +153,32 @@ Contestant List:
 - Votes from contestants of JamOOJam will not be counted towards the final score.
 
 - A form to vote from will be released after JamOOJam.
+
+- - -
+
+## COMMUNITY CATEGORIES: ##
+
+### Mod Categories: ###
+
+- Overall Excellence
+
+- Best Aesthetics
+
+- Most Innovative User Interaction
+
+- Most Balanced Progression
+
+-  Most Stable **(Newly Added in JamOOJam Beta)**
+
+### Map Categories: ###
+
+- Overall Excellence
+
+- Best Aesthetics
+
+- Best Storyline
+
+- Best Use of Modpack/Vanilla Features
 
 - - -
 
