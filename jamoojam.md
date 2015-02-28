@@ -15,7 +15,7 @@ JamOOJam is a 96-hour modding competition. It would comprise of teams and solo m
 
 "Man, I missed out on checking who won JamOOJam! What'll I do now?"
 
-**FEAR NOT** kind citizen! Check the [Featured Mods](featured_mods.html) page for previous winners of JamOOJam!
+**FEAR NOT** kind citizen! Check the [Featured Mods](featured-mods.html) page for previous winners of JamOOJam!
 
 - - -
 
