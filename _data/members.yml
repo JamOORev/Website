@@ -27,8 +27,8 @@
   ign: allout58
   role: moderators
   job: Author of <a href="http://minecraft.curseforge.com/mc-mods/222117-chowtime">ChowTime</a> 
-- name: poppypoppop
-  ign: poppypoppop
+- name: LordSkittles
+  ign: LordSkittles_
   role: moderators
   job: Author of <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2219688-magicians-artifice">Magician's Artifice</a>
 - name: Glassmaker
@@ -267,7 +267,10 @@
   ign: Bubaubz
   role: members
   job: StoneWaves' Potato
+<<<<<<< HEAD
 - name: Lapsus
   ign: Lapsus
   role: members
   job: 
+=======
+>>>>>>> b14efde8fcf7de372ab27dc886e42c32754307a8
