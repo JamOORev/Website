@@ -5,19 +5,20 @@ function getBranch() {
 }
 
 function getFolder() {
-if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
-	if [ "${TRAVIS_BRANCH}" = "master" ]; then
-		echo "public_html"
-	else
-		echo "dev_html/main_site/`getBranch`"
-	fi
+if [ "${TRAVIS_BRANCH}" = "master" ]; then
+	echo "public_html"
 else
-	exit 0
+	echo "dev_html/main_site/`getBranch`"
 fi
 }
 
 if [ "${TRAVIS_REPO_SLUG}" != "JamOORev/Website" ]; then
 	echo "Not uploading fork of website."
+	exit 0
+fi
+
+if [ "${TRAVIS_PULL_REQUEST}" != "false" ]; then
+	echo "Not upload pull request"
 	exit 0
 fi
 
