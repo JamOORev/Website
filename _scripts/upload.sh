@@ -25,12 +25,13 @@ fi
 
 #sudo apt-get install ncftp --yes ## Now Handled By Travis In .travis.yml
 
-if ping -qc 20 $HOST >/dev/null; then
-    echo "Host $HOST is up, uploading files"
-    cd _site/ && rm -f Gemfile* && ncftpput -R -DD -v -m -u $FTP_USER -p $FTP_PASSWORD jamoorev.com "`getFolder`/" ./* ./.[a-z]*
-else
+curl $HOST > /dev/null 2>&1
+if [ $? -ne 0 ]; then
     echo "Host $HOST is down, try rebuilding later?"
     exit 1
+else
+    echo "Host $HOST is up, uploading files"
+    cd _site/ && rm -f Gemfile* && ncftpput -R -DD -v -m -u $FTP_USER -p $FTP_PASSWORD jamoorev.com "`getFolder`/" ./* ./.[a-z]*
 fi
 
 #curl --ftp-create-dirs -T _site/ -u $FTP_USER:$FTP_PASSWORD ftp://jamoorev.com/`getFolder`
