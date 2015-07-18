@@ -6,6 +6,6 @@ env:
         - secure: "ZRRa0UtOGHFRH7YZh+oVLomNlBQO15wJNlS2Sqk66ZIgCj3kKMuttv9sU7V6N8qbeaYw3VATuQJyvTOCq5GVnBm9MhttDhEf3KQFSsnq7kDga/ZHXIaT+P5+Ej1NY1BMEs1AC63AVXAN0eYY9mjURiChlFAf/VwFvxd6rPSZuY8="
 script: "bundle exec jekyll build -t"
 install: bundle install
-sudo: false
+sudo: required
 after_success:
     "chmod u+x ./_scripts/upload.sh && ./_scripts/upload.sh"
