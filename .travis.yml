@@ -11,6 +11,6 @@ addons:
     apt:
         packages:
         - ncftp
-        - ping
+        - curl
 after_success:
     "chmod u+x ./_scripts/upload.sh && ./_scripts/upload.sh"
