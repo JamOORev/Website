@@ -29,7 +29,7 @@ if ping -qc 20 $HOST >/dev/null; then
     echo "Host $HOST is up, uploading files"
     cd _site/ && rm -f Gemfile* && ncftpput -R -DD -v -m -u $FTP_USER -p $FTP_PASSWORD jamoorev.com "`getFolder`/" ./* ./.[a-z]*
 else
-    echo "Host $HOST_TO_CHECK is down, try rebuilding later?"
+    echo "Host $HOST is down, try rebuilding later?"
     exit 1
 fi
 
